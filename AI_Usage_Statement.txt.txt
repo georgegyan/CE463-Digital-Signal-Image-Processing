@@ -1,0 +1,9 @@
+CE 463 Assignment 1 — AI Usage Statement
+
+I used ChatGPT as an AI language model to help me understand the assignment instructions, work through the Python examples, troubleshoot a missing Python package, and prepare explanations of the code and its outputs.
+
+I ran the code in my own Jupyter Notebook environment and checked the outputs. I used AI assistance for guidance and explanation while working on the assignment.
+
+Multimodal AI use: I did not use a multimodal AI model to analyze or process images for this assignment.
+
+I acknowledge the use of AI assistance and remain responsible for verifying the code, explanations, and final submission.
